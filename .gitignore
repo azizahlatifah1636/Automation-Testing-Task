@@ -61,3 +61,8 @@ allure-results/
 
 # Cache
 .cache/
+
+# GitHub specific files
+.github/
+
+
